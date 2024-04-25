@@ -7,6 +7,8 @@ Lab Section:    02
 
 CODE DESCRIPTION: This program creates the game Brave Quest
 
+Link:  https://github.com/uzzonick/CPSC-Project-2 
+
 """
 
 import random 
